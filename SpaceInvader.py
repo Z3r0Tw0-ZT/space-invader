@@ -3,7 +3,7 @@ import winsound
 import math
 import random
 
-# Set up the screen
+# Set up the scree
 wn = turtle.Screen()
 wn.bgcolor("black")
 wn.title("Space Invaders")
